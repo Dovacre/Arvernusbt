@@ -1,6 +1,5 @@
 # 🚀 Arvernusbt
 
-[![Build](https://github.com/Dovacre/Arvernusbt/actions/workflows/CI.yml/badge.svg)](https://github.com/Dovacre/Arvernusbt/actions)
 [![Release](https://img.shields.io/github/v/release/Dovacre/Arvernusbt)](https://github.com/Dovacre/Arvernusbt/releases)
 [![License](https://img.shields.io/github/license/Dovacre/Arvernusbt)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/Dovacre/Arvernusbt)](https://github.com/Dovacre/Arvernusbt/issues)
